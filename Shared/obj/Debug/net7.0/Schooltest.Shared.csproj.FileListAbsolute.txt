@@ -1,0 +1,11 @@
+C:\Blazorapps\Schooltest\Shared\bin\Debug\net7.0\Schooltest.Shared.deps.json
+C:\Blazorapps\Schooltest\Shared\bin\Debug\net7.0\Schooltest.Shared.dll
+C:\Blazorapps\Schooltest\Shared\bin\Debug\net7.0\Schooltest.Shared.pdb
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.AssemblyInfoInputs.cache
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.AssemblyInfo.cs
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.csproj.CoreCompileInputs.cache
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.dll
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\refint\Schooltest.Shared.dll
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\Schooltest.Shared.pdb
+C:\Blazorapps\Schooltest\Shared\obj\Debug\net7.0\ref\Schooltest.Shared.dll
