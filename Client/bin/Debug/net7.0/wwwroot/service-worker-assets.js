@@ -873,11 +873,11 @@
       "url": "_framework\/Schooltest.Shared.pdb"
     },
     {
-      "hash": "sha256-lwNKeYaEPmR+I7palxMs1SoS+M0lDgSnZ4BXANbZvi8=",
+      "hash": "sha256-OBgv+GIWF46fQZDYJcSEau9TpeV\/hlEw25aRlVXlEQg=",
       "url": "_framework\/Schooltest.Client.dll"
     },
     {
-      "hash": "sha256-z3p0Ax8Sh1X9zU6Dz+lWb6Vox3UafQUp+YCKJxq6cxE=",
+      "hash": "sha256-te2b\/Z+AqOkmOpXO9KJF5l3ijcyWGjO1je0Nfy+SMoU=",
       "url": "_framework\/Schooltest.Client.pdb"
     },
     {
@@ -885,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-j2Kmi1Sfzs2tw1vgNQb5kedqJrpfZ\/y2J22tSBVKnj0=",
+      "hash": "sha256-VxMM7vSll51OehKWsqnNI7OPVeRIPI5GwRzES3PclfY=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "VZuOk8Z9"
+  "version": "OpKAWHEf"
 };

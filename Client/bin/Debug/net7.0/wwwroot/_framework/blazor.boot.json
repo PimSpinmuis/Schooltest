@@ -199,14 +199,14 @@
       "netstandard.dll": "sha256-qjqaAEP3hdLnU\/TnoCd8HaSa+0ruV1TpdaB2GUujGMw=",
       "System.Private.CoreLib.dll": "sha256-\/7uQ+eNo9u3H1mpgMko4D3tKZHeGRfsRjna0Dqsu62k=",
       "Schooltest.Shared.dll": "sha256-vNDe4PZ0M+nj5lmp664vClKGkJD8gx5R+IECXQcy7Zs=",
-      "Schooltest.Client.dll": "sha256-lwNKeYaEPmR+I7palxMs1SoS+M0lDgSnZ4BXANbZvi8="
+      "Schooltest.Client.dll": "sha256-3an+68vUJCwGh6fKGrNHia+9cEhEpe+12uRt8vgqcf8="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
       "Schooltest.Shared.pdb": "sha256-EtPBNSmeS1k6sjSYGBSy9kyow3kvmruJfaF2ypU5f4g=",
-      "Schooltest.Client.pdb": "sha256-z3p0Ax8Sh1X9zU6Dz+lWb6Vox3UafQUp+YCKJxq6cxE="
+      "Schooltest.Client.pdb": "sha256-d4dqYvvd9k957IB6omBrFJ9S6\/ijW17xy6\/d8emyNUI="
     },
     "runtime": {
       "dotnet.7.0.10.ny7jjm887y.js": "sha256-qJB30QURoyH3y3WyayHu6nMFIx2XNOkXCez7tagGpvE=",
